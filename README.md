@@ -1,4 +1,4 @@
-# Experiment 6
+# Experiment 19
 
 ## Aim:
 To perform SET OPERATIONS on tables in MySQL.
