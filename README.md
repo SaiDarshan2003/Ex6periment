@@ -59,5 +59,10 @@ select name from Authors
 order by name
 
 ```
+## Output:
+
+![image](https://github.com/SaiDarshan2003/Ex6periment/assets/94692595/c767fc89-f66f-46d9-92cd-a08cbfd0e4a3)
+
+
 ## Result:
 Therefore we have successfully performed SET OPERATIONS.
